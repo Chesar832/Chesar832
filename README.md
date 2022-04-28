@@ -1,7 +1,7 @@
 # 👨🏻‍🔬 Hola, mi nombre es César Chalco Elías
 ### Data Scientist Jr & Industrial Engineering
 
-![banner](https://i.ibb.co/8rkx3L0/Black-Technology-Linked-In-Banner.png)
+![banner](https://www.linkpicture.com/view.php?img=LPic6269f13a2941f243312001)
 
 Soy un estudiante de ingeniería industrial apasionado por el mundo de los datos, más específicamente, con la ciencia de datos.
 
