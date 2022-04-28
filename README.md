@@ -12,10 +12,10 @@ Mi meta es ser un Data Scientist Senior, y para ello he ido realizando estudios 
 ## 💼 Mi portafolio
 Mis conocimientos en Ciencia de Datos se ven reflejados en los proyectos desarrollados de mi portafolio:
 
-1. [Detección de fraude crediticio](https://github.com/Chesar832/Fraud_Detection_in_Python) (individual)
-2. [Segmentación de clientes por registro de actividad crediticia](https://github.com/Chesar832/Credit-Cards-Clustering) (individual)
-3. [Marketing Mix Modeling](https://github.com/Chesar832/Marketing-Mix-Modeling) (colaborativo con equipo internacionañ)
-4. [Clasificador de empresas impactadas por la pandemia](https://github.com/Chesar832/Deteccion-de-empresas-impactadas-por-la-pandemia) (individual)
+1. [Detección de fraude crediticio](https://github.com/Chesar832/Fraud_Detection_in_Python) (Individual)
+2. [Segmentación de clientes por registro de actividad crediticia](https://github.com/Chesar832/Credit-Cards-Clustering) (Individual)
+3. [Marketing Mix Modeling](https://github.com/Chesar832/Marketing-Mix-Modeling) (Colaborativo - Equipo Internacional 🤝) 
+4. [Clasificador de empresas impactadas por la pandemia](https://github.com/Chesar832/Deteccion-de-empresas-impactadas-por-la-pandemia) (Individual)
 
 ## 🙋🏻‍♂️ Mis redes
 Puedes encontrarme en las siguientes redes sociales:
