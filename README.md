@@ -1,5 +1,5 @@
 # 👨🏻‍🔬 Hola, mi nombre es César Chalco Elías
-### Data Scientist Jr & Industrial Engineering
+### Data Science & Industrial Engineering
 
 ![banner](https://www.linkpicture.com/q/Black-Technology-LinkedIn-Banner.png)
 
