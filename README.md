@@ -15,7 +15,7 @@ Mis conocimientos en Ciencia de Datos se ven reflejados en los proyectos desarro
 1. [Segmentación de clientes por registro de actividad crediticia](https://github.com/Chesar832/Credit-Cards-Clustering)
 2. [Marketing Mix Modeling](https://github.com/Chesar832/Marketing-Mix-Modeling) (Colaborativo - Equipo Internacional 🤝) 
 3. [Detección de fraude crediticio](https://github.com/Chesar832/Fraud_Detection_in_Python)
-4. [Detección de siniestros para una empresa aseguradora con un modelo paramétrico](https://github.com/Chesar832/Deteccion-de-siniestros-con-modelo-parametrico) (Presentación de resultados: [presentación])
+4. [Detección de siniestros para una empresa aseguradora con un modelo paramétrico](https://github.com/Chesar832/Deteccion-de-siniestros-con-modelo-parametrico) (Presentación de resultados: [presentación](https://view.genial.ly/6275ade2b2633400185b7c6f/presentation-parametric-model))
 5. [Clasificación de empresas impactadas por la pandemia](https://github.com/Chesar832/Deteccion-de-empresas-impactadas-por-la-pandemia)
 
 
