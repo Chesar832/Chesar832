@@ -16,7 +16,8 @@
 
 🏀 I love to see NBA (I'm a Boston Celtics fan) and sometimes play basketball with some friends of my university.
 
-😎 I look like this to my family:
+😎 I look like this to my family:  
+
 ![](https://media2.giphy.com/media/S8lB8ff7GtCuc/giphy.gif?cid=6c09b95248nq6oxn4hlb4ywkdjkiych2g95calw8vigajak6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## 🙋🏻‍♂️ Find me
